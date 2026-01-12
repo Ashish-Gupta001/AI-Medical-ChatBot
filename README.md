@@ -1,2 +1,2 @@
 # AI-Medical-ChatBot
-This is a complete end to end project on Medical chatbot
+Flask-powered AI medical chatbot leveraging LangChain and Retrieval-Augmented Generation for accurate, context-aware medical question answering.
